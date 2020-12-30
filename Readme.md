@@ -1,3 +1,3 @@
 # Git Course
-Arquivo da aula de g tt it para iniciantes
+Arquivo da aula de g ttitretitit para iniciantes
 
