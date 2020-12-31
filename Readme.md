@@ -4,6 +4,3 @@ Testando bem testado
 Git tash
 
 Fazendo tags
-
-A eu to maluco ta acabando
-
