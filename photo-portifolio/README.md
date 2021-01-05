@@ -1,4 +1,4 @@
-# Photo Portifolio não vejo porque precisa ser tudo em inglês estamos no Brasil, áesar que ultimamente ser brasileiro e nada no mundo da na mesma, somos o lixo do mundo.
+# Photo Portifolio não vejo porque precisa ser tudo em inglês estamos no Brasil, ápesar que ultimamente ser brasileiro e nada no mundo da na mesma, somos o lixo do mundo.
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
