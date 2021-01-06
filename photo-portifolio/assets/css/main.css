@@ -1290,9 +1290,9 @@ input, select, textarea {
 
 		.poptrox-popup .nav-next,
 		.poptrox-popup .nav-previous {
-			-moz-transition: opacity 0.2s ease-in-out;
-			-webkit-transition: opacity 0.2s ease-in-out;
-			-ms-transition: opacity 0.2s ease-in-out;
+			-moz-transition: opacity 600ms ease-in-out;
+			-webkit-transition: opacity 600ms ease-in-out;
+			-ms-transition: opacity 600ms ease-in-out;
 			transition: opacity 0.2s ease-in-out;
 			position: absolute;
 			top: 0;
