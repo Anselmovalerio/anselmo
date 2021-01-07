@@ -2250,12 +2250,6 @@ input, select, textarea {
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
 		
-	#intro p {
-		font-size: 2 rem;
-		line-height:5.5 rem;
-		text-shadow 1px 1px 1px #000;		
-	}
-
 /* One */
 
 	#one {
